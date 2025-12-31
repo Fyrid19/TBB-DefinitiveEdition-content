@@ -16,13 +16,15 @@
         {
             "id": "sky",
             "asset": "stages/aftermath/sunset/sky",
-            "position": [ -700, -100 ],
+            "position": [ -940, -1000 ],
+            "scrollFactor": [ 0.3, 0.3 ],
             "zIndex": 1
         },
         {
             "id": "hills",
             "asset": "stages/aftermath/sunset/hills",
-            "position": [ -900, 1100 ],
+            "position": [ -900, 600 ],
+            "scrollFactor": [ 0.6, 0.6 ],
             "zIndex": 2
         },
         {

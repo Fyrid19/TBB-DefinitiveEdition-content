@@ -1,0 +1,46 @@
+{
+    "defaultZoom": 0.4,
+    "isPixelStage": false,
+	"boyfriend": [ 1420, 1250 ],
+	"girlfriend": [ 900, 1290 ],
+	"opponent": [ 350, 1245 ],
+    "hide_girlfriend": true,
+    "camera_boyfriend": [ 0, 0 ],
+    "camera_opponent": [ 0, 0 ],
+    "camera_girlfriend": [ 0, 0 ],
+    "camera_speed": 1,
+    "dadZIndex": 4,
+    "bfZIndex": 4,
+    "gfZIndex": 4,
+    "stageObjects": [
+        {
+            "id": "background",
+            "asset": "stages/wahoo-void/waoo-threedee-stage",
+            "position": [ -900, 650 ],
+            "scale": [ 1.4, 1.4 ],
+            "zIndex": 1
+        },
+        {
+            "id": "ethan",
+            "scrollFactor": [ 0.5, 0.5 ],
+            "zIndex": 2
+        },
+        {
+            "id": "r",
+            "scrollFactor": [ 0.5, 0.5 ],
+            "zIndex": 2
+        },
+        {
+            "id": "bando",
+            "scrollFactor": [ 0.5, 0.5 ],
+            "zIndex": 2
+        },
+        {
+            "id": "platform",
+            "asset": "stages/wahoo-void/wahoo-world-ground",
+            "position": [ 1300, 1880 ],
+            "scale": [ 1.2, 1.2 ],
+            "zIndex": 3
+        }
+    ]
+}

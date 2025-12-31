@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bando-peak.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idlePeak0000" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0001" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0002" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0003" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0004" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0005" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0006" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0007" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0008" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0009" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0010" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idlePeak0011" x="3000" y="0" width="1000" height="1000"/>
+</TextureAtlas>

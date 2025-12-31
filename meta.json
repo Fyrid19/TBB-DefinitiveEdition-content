@@ -1,6 +1,7 @@
 {
     "name": "TBB Definitive Edition",
-    "global": false,
+    "global": true,
 
-    "windowTitle": "Tom's Birthday Bash - Definitive Edition"
+    "windowTitle": "Tom's Birthday Bash - Definitive Edition",
+    "defaultFont": "tomgles.ttf"
 }

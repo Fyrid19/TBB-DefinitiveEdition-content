@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ethan-wethan.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle3d0000" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0001" x="0" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0002" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0003" x="1000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0004" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0005" x="2000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0006" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0007" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0008" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0009" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0010" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idle3d0011" x="3000" y="0" width="1000" height="1000"/>
+	<SubTexture name="idleEw0000" x="0" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0001" x="0" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0002" x="1000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0003" x="1000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0004" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0005" x="2000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0006" x="3000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0007" x="3000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0008" x="3000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0009" x="3000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0010" x="3000" y="1000" width="1000" height="1000"/>
+	<SubTexture name="idleEw0011" x="3000" y="1000" width="1000" height="1000"/>
+</TextureAtlas>

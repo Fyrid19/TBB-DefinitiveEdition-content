@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bando-r-uh.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idleBando2d0000" x="0" y="0" width="298" height="366" frameX="0" frameY="-8" frameWidth="298" frameHeight="374"/>
+	<SubTexture name="idleBando2d0001" x="0" y="0" width="298" height="366" frameX="0" frameY="-8" frameWidth="298" frameHeight="374"/>
+	<SubTexture name="idleBando2d0002" x="303" y="0" width="298" height="369" frameX="0" frameY="-5" frameWidth="298" frameHeight="374"/>
+	<SubTexture name="idleBando2d0003" x="303" y="0" width="298" height="369" frameX="0" frameY="-5" frameWidth="298" frameHeight="374"/>
+	<SubTexture name="idleBando2d0004" x="606" y="0" width="298" height="373" frameX="0" frameY="-1" frameWidth="298" frameHeight="374"/>
+	<SubTexture name="idleBando2d0005" x="606" y="0" width="298" height="373" frameX="0" frameY="-1" frameWidth="298" frameHeight="374"/>
+	<SubTexture name="idleBando2d0006" x="909" y="0" width="298" height="374"/>
+	<SubTexture name="idleBando2d0007" x="909" y="0" width="298" height="374"/>
+	<SubTexture name="idleBando2d0008" x="909" y="0" width="298" height="374"/>
+	<SubTexture name="idleBando2d0009" x="909" y="0" width="298" height="374"/>
+	<SubTexture name="idleBando2d0010" x="909" y="0" width="298" height="374"/>
+	<SubTexture name="idleBando2d0011" x="909" y="0" width="298" height="374"/>
+	<SubTexture name="idleBando2d0012" x="909" y="0" width="298" height="374"/>
+	<SubTexture name="idleBando2d0013" x="909" y="0" width="298" height="374"/>
+	<SubTexture name="idleR2d0000" x="1212" y="0" width="320" height="354" frameX="0" frameY="-8" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0001" x="1212" y="0" width="320" height="354" frameX="0" frameY="-8" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0002" x="1537" y="0" width="320" height="356" frameX="0" frameY="-6" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0003" x="1537" y="0" width="320" height="356" frameX="0" frameY="-6" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0004" x="0" y="379" width="319" height="361" frameX="0" frameY="-1" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0005" x="0" y="379" width="319" height="361" frameX="0" frameY="-1" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0006" x="324" y="379" width="319" height="362" frameX="0" frameY="0" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0007" x="324" y="379" width="319" height="362" frameX="0" frameY="0" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0008" x="324" y="379" width="319" height="362" frameX="0" frameY="0" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0009" x="324" y="379" width="319" height="362" frameX="0" frameY="0" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0010" x="324" y="379" width="319" height="362" frameX="0" frameY="0" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0011" x="324" y="379" width="319" height="362" frameX="0" frameY="0" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0012" x="324" y="379" width="319" height="362" frameX="0" frameY="0" frameWidth="320" frameHeight="362"/>
+	<SubTexture name="idleR2d0013" x="324" y="379" width="319" height="362" frameX="0" frameY="0" frameWidth="320" frameHeight="362"/>
+</TextureAtlas>

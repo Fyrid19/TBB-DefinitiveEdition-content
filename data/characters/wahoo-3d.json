@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
-			"indices": [],
-			"name": "danceLeft"
+			"fps": 24,
+			"name": "danceLeft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceRight",
-			"indices": [],
-			"name": "danceRight"
+			"fps": 24,
+			"name": "danceRight",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				320,
 				50
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
+			"fps": 24,
+			"name": "left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				48,
 				-47
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"fps": 24,
+			"name": "down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				100
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"fps": 24,
+			"name": "up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-30,
 				50
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		}
 	],
 	"no_antialiasing": true,
@@ -73,17 +73,21 @@
 		0,
 		0
 	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
 	"healthicon": "wahoo-funny",
+	"gameover_character": null,
+	"vslice_sustains": false,
 	"flip_x": false,
-	"healthbar_colors": [
-		33,
-		226,
-		100
-	],
+	"healthbar_colour": -14556572,
 	"camera_position": [
 		0,
 		0
 	],
+	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1,
+	"_editor_isPlayer": false
 }

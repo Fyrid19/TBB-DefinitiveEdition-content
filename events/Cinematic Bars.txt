@@ -1,0 +1,3 @@
+Makes cinematic bars appear, does not move notes
+Value 1: the amount it moves in, if 0 the hud comes back (if hidden)
+Value 2: Duration, Ease, Hide hud (true/false, true by default)
